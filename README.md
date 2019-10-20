@@ -1,55 +1,52 @@
-## Your Name
+# ALICE CHEUNG
+[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Write Here
 
-## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+## PROJECTS
+| Project       | Summary       | Technologies  |
+| ------------- |---------------| --------------|
+| 1. Project One ([Github](Github Link)) | Summary |Language |
+| 2. Project two ([Github](Github Link))|Summary | Language |
+| 3. Project 3 ([Github](Github Link))| Summary | Language |
+| 4. Project 4 ([Github](Github Link))| Summary | Language |
 
-#### This Skill
 
-- Experience
-- Achievements
-- Evidence
+## PROFESSIONAL EXPERIENCE
+List of proffessional experience
 
-#### Another Skill
+#### JOB HERE
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Details of job
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### JOB HERE
 
-## Education
+Details of job
 
-#### Makers Academy (start_date to end_date)
+#### JOB HERE
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Details of job
 
-#### Your University / College (start_date to end_date)
+## EDUCATION AND QUALIFICATIONS
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### SOFTWARE DEVELOPER BOOTCAMP, MAKERS ACADEMY
 
-#### Any other qualifications
+Details here
 
-That in some arguable way make you a better software developer or well-rounded person
+#### A-LEVELS HERE
 
-## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+## HOBBIES
+- List of hobbies here
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+# REFERENCES
 
-## Hobbies
+list of references here
 
-Any cool stuff that makes you a super part of a software development team
+## LINKEDIN
+
+<a href="#">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
