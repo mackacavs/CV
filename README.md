@@ -1,4 +1,4 @@
-# ALICE CHEUNG
+# MACKENZIE DIXON
 [PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
 Write Here
