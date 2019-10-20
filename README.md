@@ -8,7 +8,7 @@
 
 As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development, bringing the people skills I've developed in teaching and sales roles into a technical environment.
 
-I've been fortunate to manage teams of people from diverse backgrounds, giving me the experience and adaptability to make the most of the opportunity that provides. Whilst in these roles, I devloped my interest in providing technical solutions to problems I faced on a day-to-day basis, which has lead me to a pursuit of a career in writing software.
+I've been fortunate to manage teams of people from diverse backgrounds, giving me the experience and adaptability to make the most of the opportunity that provides. Whilst in these roles, my interest grew in providing technical solutions to problems I faced on a day-to-day basis, which has lead me to a pursuit of a career in writing software.
 
 ## PROJECTS
 | Project       | Summary       | Technologies  |
