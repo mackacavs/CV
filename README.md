@@ -4,13 +4,11 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
+[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies) | [LINKEDIN](#networks-and-media)
 
-# MACKENZIE DIXON
-[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
+As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development, bringing the people skills I've developed in teaching and sales roles into a technical environment.
 
-After a series of experiences learning everything I can about people - through teaching, sales and travel - my journey has begun to learn everything I can about computers! 
-
-I'm fascintated by buidling projects to help to make life simpler, working with diverse groups of people to help me learn more about myself and delving deep into documentation to help me fully understand the languages I'm learning.
+I've been fortunate to work in teams of people from diverse backgrounds, giving me the experience and adaptability to make the most of the opportunity that provides.
 
 ## PROJECTS
 | Project       | Summary       | Technologies  |
