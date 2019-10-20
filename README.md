@@ -7,7 +7,7 @@ Write Here
 ## PROJECTS
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| 1. Project One ([Github](Github Link)) | Summary |Language |
+| 1. Project One ([Github](https://github.com/mackacavs/tic-tac-toe)) | One of my first completed coding projects - a simple tic-tac-toe game that you can play with friends! |HTML, CSS, Javascript |
 | 2. Project two ([Github](Github Link))|Summary | Language |
 | 3. Project 3 ([Github](Github Link))| Summary | Language |
 | 4. Project 4 ([Github](Github Link))| Summary | Language |
