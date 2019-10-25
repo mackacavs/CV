@@ -13,7 +13,7 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 ## PROJECTS
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| 1. Project One ([Github](https://github.com/mackacavs/tic-tac-toe)) | One of my first completed coding projects - a simple tic-tac-toe game that you can play with friends! | HTML, CSS, Javascript |
+| 1. Project One ([Github](https://github.com/mackacavs/tic-tac-toe) - check) | One of my first completed coding projects - a simple tic-tac-toe game that you can play with friends! | HTML, CSS, Javascript |
 | 2. Project two ([Github](Github Link))|Summary | Language |
 | 3. Project 3 ([Github](Github Link))| Summary | Language |
 | 4. Project 4 ([Github](Github Link))| Summary | Language |
