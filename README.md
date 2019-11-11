@@ -14,9 +14,9 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
 | 1. Project One ([Github](https://github.com/mackacavs/tic-tac-toe)) | One of my first completed coding projects - a simple tic-tac-toe game that you can play with friends! | HTML, CSS, Javascript |
-| 2. Project two ([Github](Github Link))|Summary | Language |
-| 3. Project 3 ([Github](Github Link))| Summary | Language |
-| 4. Project 4 ([Github](Github Link))| Summary | Language |
+| 2. Project two ([Github](Github Link))| Takeaway challenge | Language |
+| 3. Project 3 ([Github](Github Link))| Final Project | Language |
+| 4. Project 4 ([Github](Github Link))| Acebook | Language |
 
 
 ## PROFESSIONAL EXPERIENCE
