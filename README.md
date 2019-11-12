@@ -14,9 +14,8 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
 | 1. TakeAway Challenge ([Github](https://github.com/mackacavs/takeaway-challenge/)) | One of my first completed coding projects at Makers - a fully tested app allowing you to order your favourite Takeaway food! | Ruby, RSpec, Twilio |
-| 2. Acebook ([Github](https://github.com/mackacavs/acebook-agil/))|A Facebook Clone built whose backend is wrapped in an API and can be accessed with two front-ends - one built in [Rails](https://github.com/mackacavs/acebook-agil/) and the other [React](https://github.com/mackacavs/acebook-react-agil/) | Ruby On Rails, Rspec, Capybara, Javascript, React |
-| 3. Project 3 ([Github](Github Link))| Summary | Language |
-| 4. Project 4 ([Github](Github Link))| Summary | Language |
+| 2. Acebook ([Github](https://github.com/mackacavs/acebook-agil/))|A Facebook Clone built whose backend is wrapped in an API and can be accessed with two front-ends - one built in [Rails](https://github.com/mackacavs/acebook-agil/) and the other [React](https://github.com/mackacavs/acebook-react-agil/) | Ruby On Rails, Rspec, Capybara, Javascript, React, Heroku |
+| 3. bestB4 ([Github](Github Link))| A full-stack appliction built in the MERN Stack where you can swap details in order to swap your expiring food, search for recipes based on local ingredients and hunt down those ingredients using Google Maps | Mongo, Express, React, Node, Spoonacular API, Google Maps API, Cyrpess, Jest |
 
 
 ## PROFESSIONAL EXPERIENCE
