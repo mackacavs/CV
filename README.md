@@ -13,7 +13,7 @@ I've been fortunate to manage teams of people from diverse backgrounds, giving m
 ## PROJECTS
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| 1. Project One ([Github](https://github.com/mackacavs/tic-tac-toe)) | One of my first completed coding projects - a simple tic-tac-toe game that you can play with friends! | HTML, CSS, Javascript |
+| 1. TakeAway Challenge ([Github](https://github.com/mackacavs/takeaway-challenge/)) | One of my first completed coding projects at Makers - a fully tested app allowing you to order your favourite Takeaway food! | Ruby, RSpec, Twilio |
 | 2. Project two ([Github](Github Link))|Summary | Language |
 | 3. Project 3 ([Github](Github Link))| Summary | Language |
 | 4. Project 4 ([Github](Github Link))| Summary | Language |
