@@ -17,6 +17,9 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 | 2. Acebook ([Github](https://github.com/mackacavs/acebook-agil/))|A Facebook Clone built whose backend is wrapped in an API and can be accessed with two front-ends - one built in [Rails](https://github.com/mackacavs/acebook-agil/) and the other [React](https://github.com/mackacavs/acebook-react-agil/) | Ruby On Rails, Rspec, Capybara, Javascript, React, Heroku |
 | 3. bestB4 ([Github](Github Link))| A full-stack appliction built in the MERN Stack where you can swap details in order to swap your expiring food, search for recipes based on local ingredients and hunt down those ingredients using Google Maps | Mongo, Express, React, Node, Spoonacular API, Google Maps API, Cyrpess, Jest |
 
+## SKILLS
+List of proffessional experience
+
 
 ## PROFESSIONAL EXPERIENCE
 List of proffessional experience
@@ -44,10 +47,6 @@ Details here
 
 ## HOBBIES
 - List of hobbies here
-
-## REFERENCES
-
-list of references here
 
 ## LINKEDIN
 <p align="center">
