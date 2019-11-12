@@ -4,7 +4,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
-[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies) | [LINKEDIN](#networks-and-media)
+[PROJECTS](#projects) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies)
 
 As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development, bringing the people skills I've developed in teaching and sales roles into a technical environment.
 
@@ -37,15 +37,20 @@ I have to admit I was a late convert to TDD. All my coding experiences prior to 
 #### Leadership
 During my last role at Raft Furniture, I was promoted to assistant manager of our newly-created flagship store in Westfield Shepherd's Bush. I lead a team from many different nationalities and backgrounds with the responsibilities of keeping morale high, dealing with any conflicts as and when they would arise and delegating roles to members of staff who were working under me.
 
+During my final project I had to show leadership as I was the only member of my team who knew the basics of both React and Redux. I encouraged my team throughout that we could achieve our project goals in a language we knew very little. We were really proud of what we did, particularly as we used this foreign tech stack and completed several stretch goals including using the Spoonacular and Google Maps API. 
+
 #### The Ability To Be Empathetic
 One of the primary skills I've developed throughout my career is the ability to understand others' concerns and address them in a suitable manner. This was developed through working with clients - where it's imperative you understand the wants and needs of your potential customer - and more generally with my colleagues. My ability to succeed in my last role - in a high-pressure sales environment - was defined by the relationships I built with people and I'll bring that into any tech-focussed role moving forward.
 
-When I taught English as a Foriegn Language empathy was my most important and used skill. I primarily worked with students on a one-to-one level and thus devloped close relationships and regularly experienced first-hand my students' struggles with learning a new language. I consistenly encouraged my students throughout my relationship with them giving them the belief to achieve their desired language learning goals. 
+When I taught English as a Foriegn Language to business people in London empathy was my most important and used skill. I primarily worked with students on a one-to-one level and thus devloped close relationships and regularly experienced first-hand my students' struggles with learning a new language. I consistenly encouraged my students throughout my relationship with them giving them the belief to achieve their desired language learning goals. 
 
-#### Empathy
+#### Teamwork
+
+I've consistently worked in teams during my Makers experience and throughout my career. At Makers we had 3 team projects - all with different characters and personalites. During Acebook I was paired with members of my cohort who came with over 40 years of development experience between them. We created a fantastic team spirit where I was happy to use their invaluble experience as I needed and happy to take over where I had more knowledge.
+
+In my previous role in order to create the best possible customer experience and generate sales for the business, I had to work as part of a seamless team. Teams would consist of anything between 2 and 6 people and our success was dependent on functioning as a unit. We regularly had team meetings in the morning and check-ins with each to make sure we working optimally.
 
 ## PROFESSIONAL EXPERIENCE
-List of proffessional experience
 
 #### JOB HERE
 
@@ -67,14 +72,6 @@ Details here
 
 #### A-LEVELS HERE
 
-
 ## HOBBIES
 - List of hobbies here
 
-## LINKEDIN
-<p align="center">
-
-<a href="#">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
-</p>
