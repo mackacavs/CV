@@ -26,9 +26,11 @@ I've found one of the most satisfying experiences when writing code is building 
 Makers is fantastic at encouraging you to follow agile practices. We consistently worked on the basis of two-day sprints - giving the opportunity to reflect on the code we'd created and move forward based on what we do know rather that becoming bogged down in how our app will look several iterations down the line. When I spent two weeks in a group of four creating a [Facebook](https://github.com/mackacavs/acebook-agil/) clone, we had continuous two-day sprints to help us to continue to build and grow the application's minimun viable product efficiently. We also used retrospectives at the end of every day to focus on immediate goals moving forward and stand-ups to make sure good processes were being followed.
 
 #### Using TDD
-I have to admit I was a late convert to TDD. All my coding experiences prior to Makers were based on building the appliction as quickly and inefficiently as possible - leaving countless lines of poor code in my wake. Over the last twelve weeks I've focussed on building applications using TDD. 
+I have to admit I was a late convert to TDD. All my coding experiences prior to Makers were based on building the appliction as quickly and inefficiently as possible - leaving countless lines of poor code in my wake. Over the last twelve weeks I've focussed on building applications following good TDD process-
 
-My [Airport](https://github.com/mackacavs/airport_challenge) project was my first introduction to Rspec, for this [Bowling Game Kata](https://github.com/mackacavs/bowling-challenge) I used Jasmine as the appliction was written in Javascript and [Chitter](https://github.com/mackacavs/chitter-challenge) is a good example of Capybara - which I used to fully test my front-end.
+* My [Airport](https://github.com/mackacavs/airport_challenge) project was my first introduction to Rspec
+* This [Bowling Game Kata](https://github.com/mackacavs/bowling-challenge) used Jasmine as the appliction was written in Javascript 
+* [Chitter](https://github.com/mackacavs/chitter-challenge) is a good example of Capybara - which I used to fully test my front-end
 
 ## HOW I WORK WITH PEOPLE
 
