@@ -29,8 +29,8 @@ Makers is fantastic at encouraging you to follow agile practices. We consistentl
 I have to admit I was a late convert to TDD. All my coding experiences prior to Makers were based on building the appliction as quickly and inefficiently as possible - leaving countless lines of poor code in my wake. Over the last twelve weeks I've focussed on building applications following good TDD process-
 
 * My [Airport](https://github.com/mackacavs/airport_challenge) project was my first introduction to Rspec
-* This [Bowling Game Kata](https://github.com/mackacavs/bowling-challenge) used Jasmine as the appliction was written in Javascript 
-* [Chitter](https://github.com/mackacavs/chitter-challenge) is a good example of Capybara - which I used to fully test my front-end
+* This [Bowling Game Kata](https://github.com/mackacavs/bowling-challenge) used Jasmine as the test framework as the appliction was written in Javascript 
+* [Chitter](https://github.com/mackacavs/chitter-challenge) is a good example of a fully tested application. Capybara for feature testing and Rspec for unit testing
 
 ## HOW I WORK WITH PEOPLE
 
