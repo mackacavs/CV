@@ -23,7 +23,7 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 I've found one of the most satisfying experiences when writing code is building something that's scalable. By focussing on regular refactors after passing tests I've managed to build applications that can grow with ease - without the need for painful and time-consuming deep-dives into already written code. During the last 2 weeks of the course I built [bestB4](https://github.com/eashworth/BestB4) with 5 of my fellow Makers. I made the decision at the start of our project to use Redux to manage our state - allowing us to easily expand the application later by creating components that could call external API's with data held in our Redux state. 
 
 #### Following Agile Practices
-Makers is fantastic at encouraging you to follow agile practices. We consistently worked on the basis of two-day sprints - giving the opportunity to reflect on the code we'd created and move forward based on what we *do* know rather that becoming bogged down in how our app will look several iterations down the line. When I spent two weeks in a group of four creating a [Facebook](https://github.com/mackacavs/acebook-agil/) clone, we had continuous two-day sprints to help us to continue to build and grow the application's minimun viable product efficiently. We also used retrospectives at the end of every day to focus on immediate goals moving forward and stand-ups to make sure good processes were being followed.
+Makers is fantastic at encouraging you to follow agile practices. We consistently worked on the basis of two-day sprints - giving the opportunity to reflect on the code we'd created and move forward based on what we *do* know rather that becoming bogged down in how our app will look several iterations down the line. When I spent two weeks in a group of four creating a [Facebook](https://github.com/mackacavs/acebook-agil/) clone, we used these two-day sprints to help us  build and grow the application's minimun viable product efficiently. We also used retrospectives at the end of every day to focus on immediate goals moving forward and stand-ups to make sure good processes were being followed.
 
 #### Using TDD
 I have to admit I was a late convert to TDD. All my coding experiences prior to Makers were based on building the appliction as quickly and inefficiently as possible - leaving countless lines of poor code in my wake. Over the last twelve weeks I've focussed on building applications following good TDD process-
@@ -35,13 +35,14 @@ I have to admit I was a late convert to TDD. All my coding experiences prior to 
 ## HOW I WORK WITH PEOPLE
 
 #### Leadership
-During my last role at Raft Furniture I lead a team from many different nationalities and backgrounds. As in any workplace I regularly dealt with conflicts both between members of staff themselves as well as members of staff and the public. I consistently diffused these situations through a mix of understanding and good humour.
+During my last role at Raft Furniture, I was promoted to assistant manager of our newly-created flagship store in Westfield Shepherd's Bush. I lead a team from many different nationalities and backgrounds with the responsibilities of keeping morale high, dealing with any conflicts as and when they would arise and delegating roles to members of staff who were working under me.
 
-#### Relating To Others
-One of the primary skills I developed throughout my career was the ability to understand others' concerns and address them in a suitable manner. This was developed through working with clients - where it's imperative you understand the wants and needs of your potential customer - and more generally with my colleagues. My ability to succeed in my last role - in a high-pressure sales environment - was defined by the relationships I built with people and I'll bring that into any tech-focussed role moving forward.
+#### The Ability To Be Empathetic
+One of the primary skills I've developed throughout my career is the ability to understand others' concerns and address them in a suitable manner. This was developed through working with clients - where it's imperative you understand the wants and needs of your potential customer - and more generally with my colleagues. My ability to succeed in my last role - in a high-pressure sales environment - was defined by the relationships I built with people and I'll bring that into any tech-focussed role moving forward.
+
+When I taught English as a Foriegn Language empathy was my most important and used skill. I primarily worked with students on a one-to-one level and thus devloped close relationships and regularly experienced first-hand my students' struggles with learning a new language. I consistenly encouraged my students throughout my relationship with them giving them the belief to achieve their desired language learning goals. 
 
 #### Empathy
-When I taught English as a Foriegn Language empathy was my most important and used skill. I primarily worked with students on a one-to-one level and thus devloped close relationships and regularly experienced first-hand my students' struggles with learning a new language. I consistenly encouraged my students throughout my relationship with them giving them the belief to achieve their desired language learning goals. 
 
 ## PROFESSIONAL EXPERIENCE
 List of proffessional experience
