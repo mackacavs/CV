@@ -14,7 +14,7 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
 | 1. TakeAway Challenge ([Github](https://github.com/mackacavs/takeaway-challenge/)) | One of my first completed coding projects at Makers - a fully tested app allowing you to order your favourite Takeaway food! | Ruby, RSpec, Twilio |
-| 2. Project two ([Github](Github Link))|Summary | Language |
+| 2. Acebook ([Github](Github Link))|A Facebook Clone built whose backend is wrapped in an API and can be accessed with two front-ends (React and Rails) | Ruby On Rails, Rspec, Capybara, Javascript, React |
 | 3. Project 3 ([Github](Github Link))| Summary | Language |
 | 4. Project 4 ([Github](Github Link))| Summary | Language |
 
