@@ -63,9 +63,9 @@ After having worked for 9 years straight I decided to take some time out, firstl
 
 *Raft Furniture / November 2015 - December 2018*
 
-Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accounts based on individual client needs.
+Responsible for working with clients all the way from first meeting to completion of sale. Generating and turning leads into sales, managing individual accounts based on individual client needs.
 
-Along with the responsibilities of my former role - I moved into a team management rolse. Responsible for overseeing the success of the brand's flagship store in Westfield Shepherd's Bush.
+Along with the responsibilities of my former role - I moved into a team management position at a newly opened store. I was tasked with overseeing the success of the brand's flagship store in Westfield Shepherd's Bush.
 
 #### OWNER/TEACHER
 
