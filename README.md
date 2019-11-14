@@ -98,6 +98,10 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 *September 2008 - June 2010*
 
+- Studied at Beaumont School St. Albans
+
 ## HOBBIES
-- List of hobbies here
+- I'm a grade 8 pianist who loves to play; Chopin and Beethoven in particular
+- Rugby - season ticket holder at Saracens
+- Occasional gym goer
 
