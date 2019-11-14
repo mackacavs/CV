@@ -52,18 +52,18 @@ In my previous role in order to create the best possible customer experience and
 
 ## PROFESSIONAL EXPERIENCE
 
-ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
+#### ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
 
 Raft Furniture / April 2018 - December 2018
 
 Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store. 
-SALES MANAGER 
+#### SALES MANAGER 
 
 Raft Furniture / November 2015 - April - 2018
 
 Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accoutns based on individual client needs.
 
-OWNER/TEACHER
+#### OWNER/TEACHER
 
 Maria English School / December 2010 – October 2015
 
