@@ -52,11 +52,11 @@ In my previous role in order to create the best possible customer experience and
 
 ## PROFESSIONAL EXPERIENCE
 
-#### SABATTICAL/SELF-LEARNING
+#### TRAVEL/SELF-LEARNING
 
 January 2019 - June 2019
 
-After having worked for 9 years straight I decided to take some time out to start to learn how to code. During this period I developed my coding abilities through tutorials and code-alongs as well as Code Wars.
+After having worked for 9 years straight I decided to take some time out to firstly to travel and then to develop my coding skills prior to joing Makers in the 2nd half of the year.
 
 #### ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
 
@@ -68,23 +68,35 @@ Along with the responsibilities of my former role - I moved into a management po
 
 *Raft Furniture / November 2015 - April - 2018*
 
-Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accoutns based on individual client needs.
+Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accounts based on individual client needs.
 
 #### OWNER/TEACHER
 
 *Maria English School / December 2010 – October 2015*
 
-Developed successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
+Developed a successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
 
-Developed my clients’ confidence in the language, which enables many of them to go for and achieve promotions in their professional life.
+Developed my clients’ confidence in the language, which enabled many of them to go for and achieve promotions in their professional life.
 
 ## EDUCATION AND QUALIFICATIONS
 
 #### SOFTWARE DEVELOPER BOOTCAMP, MAKERS ACADEMY
 
-Details here
+*Intensive 16-week program / 10% acceptance rate / July 2017 to November 2017*
 
-#### A-LEVELS HERE
+- A focus on Ruby, Javascript, Jasmine, RSpec
+- Continuously using best practices such as TDD and Agile
+- Developed my own side projects including a Javascript Daily Goals Tracker(link)
+
+#### Certificate in Teaching English to Speakers of Other Languages (CELTA)
+
+*September 2010 - October 2010*
+
+- I qualified as a TEFL teacher in Highgate after studying with ST. Giles College.
+
+#### A-Levels in History, Geography, Economics & Business Studies
+
+*September 2008 - June 2010*
 
 ## HOBBIES
 - List of hobbies here
