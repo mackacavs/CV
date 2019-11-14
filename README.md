@@ -4,7 +4,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
-[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | 
+<p style="text-align: center;">[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | </p>[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | 
 
 [EDUCATION](#education-and-qualifications) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [HOBBIES](#hobbies)
 
