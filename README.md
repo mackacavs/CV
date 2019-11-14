@@ -79,7 +79,7 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 #### SOFTWARE DEVELOPER BOOTCAMP, MAKERS ACADEMY
 
-*Intensive 16-week program / 10% acceptance rate / July 2017 to November 2017*
+*Intensive 16-week program / 10% acceptance rate / July 2019 to November 2019*
 
 - A focus on Ruby, Javascript, Jasmine, RSpec
 - Continuously using best practices such as TDD and Agile
@@ -89,9 +89,9 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 *September 2010 - October 2010*
 
-- I qualified as a TEFL teacher in Highgate after studying with ST. Giles College.
+- I qualified as a TEFL teacher in Highgate after studying with St. Giles College.
 
-#### A-LEVELS IN FRENCH, GEOGRAPHY and ECONOMICS AND BUSINESS STUDIES
+#### A-LEVELS IN HISTORY, GEOGRAPHY and ECONOMICS AND BUSINESS STUDIES
 
 *September 2008 - June 2010*
 
