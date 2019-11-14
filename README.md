@@ -60,19 +60,19 @@ After having worked for 9 years straight I decided to take some time out to star
 
 #### ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
 
-Raft Furniture / April 2018 - December 2018
+*Raft Furniture / April 2018 - December 2018*
 
 Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store.
 
 #### SALES MANAGER 
 
-Raft Furniture / November 2015 - April - 2018
+*Raft Furniture / November 2015 - April - 2018*
 
 Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accoutns based on individual client needs.
 
 #### OWNER/TEACHER
 
-Maria English School / December 2010 – October 2015
+*Maria English School / December 2010 – October 2015*
 
 Developed successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
 
