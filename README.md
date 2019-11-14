@@ -52,17 +52,24 @@ In my previous role in order to create the best possible customer experience and
 
 ## PROFESSIONAL EXPERIENCE
 
-#### JOB HERE
+ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
 
-Details of job
+Raft Furniture / April 2018 - December 2018
 
-#### JOB HERE
+Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store. 
+SALES MANAGER 
 
-Details of job
+Raft Furniture / November 2015 - April - 2018
 
-#### JOB HERE
+Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accoutns based on individual client needs.
 
-Details of job
+OWNER/TEACHER
+
+Maria English School / December 2010 – October 2015
+
+Developed successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
+
+Developed my clients’ confidence in the language, which enables many of them to go for and achieve promotions in their professional life.
 
 ## EDUCATION AND QUALIFICATIONS
 
