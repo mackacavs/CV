@@ -5,8 +5,7 @@
 </p>
 
 
-
-<p text-align="center"> [PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | </p>
+[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) |
 
 [EDUCATION](#education-and-qualifications) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [HOBBIES](#hobbies)
 
