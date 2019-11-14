@@ -4,7 +4,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
-[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers)| [HOW I WORK WITH PEOPLE](#how-i-work-with-people)|[EDUCATION](#education-and-qualifications) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [HOBBIES](#hobbies)
+[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people)|[EDUCATION](#education-and-qualifications) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [HOBBIES](#hobbies)
 
 As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development. I bring the skills I've developed in setting up and running a successful business into a technical environment.
 
