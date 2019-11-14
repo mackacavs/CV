@@ -88,13 +88,13 @@ Developed my clients’ confidence in the language, which enabled many of them t
 - Continuously using best practices such as TDD and Agile
 - Developed my own side projects including a Javascript Daily Goals Tracker(link)
 
-#### Certificate in Teaching English to Speakers of Other Languages (CELTA)
+#### CERTIFICATE IN TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (CELTA)
 
 *September 2010 - October 2010*
 
 - I qualified as a TEFL teacher in Highgate after studying with ST. Giles College.
 
-#### A-Levels in History, Geography, Economics & Business Studies
+#### A-LEVELS IN HISTORY, GEOGRAPHY and ECONOMICS AND BUSINESS STUDIES
 
 *September 2008 - June 2010*
 
