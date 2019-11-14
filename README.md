@@ -4,8 +4,17 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
-<p align: center>
+<p align="center">
 [PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | </p>
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
 
 [PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | 
