@@ -12,7 +12,7 @@
 
 [EDUCATION](#education-and-qualifications) | [PROFESSIONAL EXPERIENCE](#professional-experience) | [HOBBIES](#hobbies)
 
-As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development. I bring the skills I've developed in setting up and running a successful business into a technical environment.
+As a November 2019 graduate of Makers Academy - I'm now pursuing a career in software development. I'm able to bring the skills I've developed through setting up and running a successful business and as a sales manager, into a technical environment.
 
 I've been fortunate to work with and manage teams of people from diverse backgrounds, giving me the experience and adaptability to make the most of the opportunity that provides. Whilst in these roles, my interest grew in providing technical solutions to problems I faced on a day-to-day basis, which has lead me to a pursuit of a career in writing software.
 
