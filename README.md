@@ -52,11 +52,18 @@ In my previous role in order to create the best possible customer experience and
 
 ## PROFESSIONAL EXPERIENCE
 
+#### SABATTICAL/SELF-LEARNING
+
+January 2019 - June 2019
+
+After having worked for 9 years straight I decided to take some time out to start to learn how to code. During this period I developed my coding abilities through tutorials and code-alongs as well as Code Wars.
+
 #### ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
 
 Raft Furniture / April 2018 - December 2018
 
-Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store. 
+Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store.
+
 #### SALES MANAGER 
 
 Raft Furniture / November 2015 - April - 2018
