@@ -4,9 +4,11 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 </p>
 
-<div style="text-align: center">
+<p align="center">| <a href="https://www.linkedin.com/in/zi-codes/">LinkedIn</a> | <a href="https://www.codewars.com/users/zi-codes"> Codewars</a> | <a href="#tech">Portfolio</a> |</center>
+
+<p align="center">
 [PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | 
-</div>
+</center>
 
 <p align="center">
   <b>Some Links:</b><br>
