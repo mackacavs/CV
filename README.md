@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | </p>
+[PROJECTS](#projects) | [HOW I WORK WITH COMPUTERS](#how-i-work-with-computers) | [HOW I WORK WITH PEOPLE](#how-i-work-with-people) | 
+</p>
 
 <p align="center">
   <b>Some Links:</b><br>
