@@ -56,25 +56,22 @@ In my previous role in order to create the best possible customer experience and
 
 January 2019 - June 2019
 
-After having worked for 9 years straight I decided to take some time out to firstly to travel and then to develop my coding skills prior to joing Makers in the 2nd half of the year.
+After having worked for 9 years straight I decided to take some time out, firstly to travel and then to develop my coding skills prior to joining Makers in the 2nd half of the year.
 
-#### ASSISTANT MANAGER (WESTFIELD SHEPHERD'S BUSH)
-
-*Raft Furniture / April 2018 - December 2018*
-
-Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store.
 
 #### SALES MANAGER 
 
-*Raft Furniture / November 2015 - April - 2018*
+*Raft Furniture / November 2015 - December 2018*
 
 Responsible for working with clients all the way from first meeting to completion of project. Generating and turning leads into sales, managing individual accounts based on individual client needs.
+
+Along with the responsibilities of my former role - I moved into a management position. Responsible for overseeing the success of the brand's flagship store.
 
 #### OWNER/TEACHER
 
 *Maria English School / December 2010 – October 2015*
 
-Developed a successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
+I set up a successful business teaching English in and around London to foriegn business professionals. My clients included accountants, recruitment executives, marketers, lawyers and business owners.
 
 Developed my clients’ confidence in the language, which enabled many of them to go for and achieve promotions in their professional life.
 
