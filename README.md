@@ -47,7 +47,7 @@ When I established my own company teaching English as a Foriegn Language to busi
 
 #### Teamwork
 
-I've consistently worked in teams during my Makers experience and most of my career. At Makers we had 3 team projects - my teams consisted of different characters and personalites. During [Acebook](https://github.com/mackacavs/acebook-agil/) I was paired with members of my cohort who came with over 40 years of development experience between them. We created a fantastic team spirit where I was happy to use their invaluble experience as I needed and happy to take over where I had more knowledge.
+I've consistently worked in teams during my Makers experience and most of my career. At Makers we had 3 team projects - my teams consisted of different characters and personalites.
 
 In my previous employment in order to create the best possible customer experience and generate sales for the business, I had to work as part of a seamless team. Teams would consist of anything between 2 and 6 people and our success was dependent on functioning as a unit. We regularly had team meetings in the morning and check-ins with each other to make sure we working optimally.
 
