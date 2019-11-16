@@ -94,7 +94,7 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 - I qualified as a TEFL teacher in Highgate after studying with St. Giles College.
 
-#### A-LEVELS IN HISTORY, GEOGRAPHY and ECONOMICS AND BUSINESS STUDIES
+#### A-LEVELS IN FRENCH, GEOGRAPHY and ECONOMICS AND BUSINESS STUDIES
 
 *September 2008 - June 2010*
 
