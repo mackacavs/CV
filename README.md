@@ -83,7 +83,7 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 - A focus on Ruby, Javascript, Jasmine, RSpec
 - Continuously using best practices such as TDD and Agile
-- Developed my own side projects including a [Javascript Daily Goals Tracker}(https://github.com/mackacavs/Daily-JS-Goals)
+- Developed my own side projects including a [Javascript Daily Goals Tracker](https://github.com/mackacavs/Daily-JS-Goals)
 
 #### CERTIFICATE IN TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (CELTA)
 
