@@ -18,7 +18,7 @@ I've been fortunate to work with and manage teams of people from diverse backgro
 | ------------- |---------------| --------------|
 | 1. TakeAway Challenge ([Github](https://github.com/mackacavs/takeaway-challenge/)) | One of my first completed coding projects at Makers - a fully tested app allowing you to order your favourite Takeaway food! | Ruby, RSpec, Twilio |
 | 2. Acebook ([Github](https://github.com/mackacavs/acebook-agil/))|A Facebook Clone built whose backend is wrapped in an API and can be accessed with two front-ends - one built in [Rails](https://github.com/mackacavs/acebook-agil/) and the other [React](https://github.com/mackacavs/acebook-react-agil/) | Ruby On Rails, Rspec, Capybara, Javascript, React, Heroku, Redux |
-| 3. bestB4 ([Github](https://github.com/eashworth/BestB4))| A full-stack appliction built with MERN where you can swap details in order to swap your expiring food, search for recipes based on local ingredients and hunt down those ingredients using Google Maps | Mongo, Express, React, Node, Spoonacular API, Google Maps API, Cypress, Jest |
+| 3. bestB4 ([Github](https://github.com/mackacavs/BestB4))| A full-stack appliction built with MERN where you can swap details in order to swap your expiring food, search for recipes based on local ingredients and hunt down those ingredients using Google Maps | Mongo, Express, React, Node, Spoonacular API, Google Maps API, Cypress, Jest |
 
 ## HOW I WORK WITH COMPUTERS
 
@@ -59,7 +59,6 @@ January 2019 - June 2019
 
 After having worked for 9 years straight I decided to take some time out, firstly to travel and then to develop my coding skills prior to joining Makers in the 2nd half of the year.
 
-
 #### SALES MANAGER 
 
 *Raft Furniture / November 2015 - December 2018*
@@ -84,7 +83,7 @@ Developed my clients’ confidence in the language, which enabled many of them t
 
 - A focus on Ruby, Javascript, Jasmine, RSpec
 - Continuously using best practices such as TDD and Agile
-- Developed my own side projects including a Javascript Daily Goals Tracker(link)
+- Developed my own side projects including a [Javascript Daily Goals Tracker}(https://github.com/mackacavs/Daily-JS-Goals)
 
 #### CERTIFICATE IN TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (CELTA)
 
@@ -102,4 +101,3 @@ Developed my clients’ confidence in the language, which enabled many of them t
 - I'm a grade 8 pianist who loves to play; Chopin and Beethoven in particular
 - Rugby - season ticket holder at Saracens
 - Occasional gym goer
-
